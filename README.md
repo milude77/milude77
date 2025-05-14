@@ -1,8 +1,7 @@
 - 👋 我是"一只迷路的77"，你可以叫我77
--🎓 软件工程专业在读，热爱 🖥️ 编程 与 📜 古典文学
--🛠️ 技术栈： Python,Flask,Django,React,Vue,Javascript
--✨ 算法与数据分析令人着迷，当然前后端也不错
--📫 联系方式：milude797@gmail.com
+- 🛠️ 技术栈： Python,Flask,Django,React,Vue,Javascript
+- ✨ 算法与数据分析令人着迷，当然前后端也不错
+- 📫 联系方式：milude797@gmail.com
 - 🤓👉 我的好朋友雨凡 hhufan
 
 <!---
