@@ -3,14 +3,9 @@
 - ✨ 算法与数据分析令人着迷，当然前后端也不错
 - 📫 联系方式：milude797@gmail.com
 - 🤓👉 我的好朋友雨凡 hhyufan
-- ## 🧠 Skills
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
-</div>
 
 <!---
 milude77/milude77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
