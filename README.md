@@ -11,8 +11,6 @@
 
 - ✨ 算法与数据分析令人着迷，当然前后端也不错
 - 📫 联系方式：milude797@gmail.com
-- 🤓👉 我的好朋友雨凡 <a href = "https://github.com/hhyufan">hhyufan</a>
-
 
 
 <!---
