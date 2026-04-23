@@ -1,4 +1,4 @@
-- 👋 我是"一只迷路的77"，你可以叫我77
+- 👋 这里是"一只迷路的77
 - 🛠️ 技术栈：![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
@@ -8,8 +8,8 @@
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
-
-- ✨ 算法与数据分析令人着迷，当然前后端也不错
+- 💡 立志做一个改变世界的开发者，哇咔咔咔咔咔
+- ✨ 喜欢写小工具，刷算法题
 - 📫 联系方式：milude797@gmail.com
 
 
